@@ -2,8 +2,11 @@
 ![](img/logo.png)
 
 **Course Date:**
+
 **Name:** Frederic 
+
 **Surname:** Davidsen
+
 **Email:** f.davidsen19@gmail.com  
 
 
