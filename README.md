@@ -1,7 +1,7 @@
-# GAIH Student Repo
+# GlobalAIHubMLCourse
 ![](img/logo.png)
 
-**Course Date:**
+**Course Date:** 04 Jan 2021 - 08 Jan 2021
 
 **Name:** Frederic 
 
