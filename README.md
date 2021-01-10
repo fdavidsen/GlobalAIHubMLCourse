@@ -14,6 +14,10 @@
 Description...
 
 ## Requirements
-Some python libraries
+- Pandas 1.0.1
+- Numpy 1.18.1
+- Matplotlib 3.1.3
+- Seaborn 0.11.0
+- Scikit-learn 0.22.1
 
 ---
