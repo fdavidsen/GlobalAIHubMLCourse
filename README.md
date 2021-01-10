@@ -1,4 +1,4 @@
-# GlobalAIHubMLCourse
+# Global AI Hub ML Course
 ![](img/logo.png)
 
 **Course Date:** 04 Jan 2021 - 08 Jan 2021
