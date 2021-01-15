@@ -21,3 +21,6 @@ Description...
 - Scikit-learn 0.22.1
 
 ---
+
+### Certification
+![](img/certificate.png)
